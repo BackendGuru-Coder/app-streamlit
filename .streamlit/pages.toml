@@ -1,0 +1,11 @@
+[[pages]]
+path = "pages/top_100_books.py"
+name = "Top 100 Trending Books"
+icon = "📚"
+url_path = "top_100_treding_books"
+
+[[pages]]
+path = "pages/book_reviews.py"
+name = "Books Reviews"
+icon = "📝"
+url_path = "books_reviews"
